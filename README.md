@@ -51,7 +51,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it22102546&langs_count=10&hide=html,css,scss&show_icons=true&locale=en&layout=compact&theme=radical" alt="it22102546" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it22102546&langs_count=10&hide=c,cpp,scss&show_icons=true&locale=en&layout=compact&theme=radical" alt="it22102546" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it22102546&show_icons=true&locale=en&theme=radical" alt="it22102546" /></p>
 
