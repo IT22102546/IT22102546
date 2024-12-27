@@ -52,7 +52,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IT22102546&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="it22102546" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IT22102546&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="it22102546" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=IT22102546&show_icons=true&theme=radical" alt="it22102546" /></p>
 
 
