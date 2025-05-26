@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22102546" alt="it22102546" /></a> </p>
 
-- 🌱 I’m currently learning **C# and .Net**
+- 🌱 I’m currently learning **IOT Sesnsor Integrations**
 
 - 💬 Ask me about **MERN Stack/Java/C/C++/Php**
 
